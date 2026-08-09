@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-qq6295.radarsatu88.shop/sitemap.xml
